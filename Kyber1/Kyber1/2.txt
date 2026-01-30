@@ -1,0 +1,1 @@
+Post-quantum cryptography aims to secure communication systems against potential threats posed by quantum computers. Hybrid encryption schemes combining KEM and symmetric encryption are widely adopted in modern secure protocols.

@@ -1,0 +1,8 @@
+With the rapid development of intelligent transportation systems, vehicular networks are facing increasing security challenges.
+Vehicles continuously exchange safety-related messages, including traffic conditions, accident warnings, and cooperative driving information.
+
+Ensuring the confidentiality and integrity of these messages is critical, especially in the presence of potential quantum adversaries.
+Post-quantum cryptography provides a promising solution by replacing traditional public-key primitives with quantum-resistant algorithms.
+
+In this experiment, a lattice-based key encapsulation mechanism is used to securely establish a shared secret,
+which is then applied to encrypt vehicular communication data using symmetric cryptography.

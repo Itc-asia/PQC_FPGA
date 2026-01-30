@@ -1,0 +1,14 @@
+The emergence of quantum computing poses a significant threat to classical public-key cryptographic systems,
+such as RSA and elliptic curve cryptography.
+Once large-scale quantum computers become available, these schemes can be efficiently broken using Shor's algorithm.
+
+As a result, post-quantum cryptography has attracted considerable attention from both academia and industry.
+Lattice-based cryptography, in particular, is regarded as one of the most promising candidates due to its strong security guarantees
+and relatively efficient performance.
+
+In practical systems, post-quantum algorithms are often deployed in a hybrid manner.
+Specifically, a key encapsulation mechanism is used to establish a shared symmetric key,
+while symmetric encryption is employed to protect large amounts of data.
+
+This experimental setup evaluates the feasibility of such a hybrid design by encrypting and decrypting long textual data,
+verifying that the decrypted output is identical to the original plaintext under various test cases.

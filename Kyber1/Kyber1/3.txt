@@ -1,0 +1,5 @@
+Post-quantum cryptography is designed to protect information against adversaries equipped with quantum computers.
+Unlike traditional public-key cryptosystems, post-quantum schemes rely on hard mathematical problems such as lattice-based,
+code-based, or multivariate polynomial problems.
+This experiment evaluates the correctness of a hybrid encryption scheme that combines a post-quantum key encapsulation
+mechanism with symmetric encryption.

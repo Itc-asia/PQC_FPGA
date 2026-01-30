@@ -1,0 +1,9 @@
+Vehicular ad hoc networks enable vehicles to communicate with each other and with roadside infrastructure in real time.
+Such communications support numerous applications, including collision avoidance, traffic optimization, and autonomous driving.
+
+However, the open and dynamic nature of vehicular networks makes them vulnerable to various security threats,
+such as eavesdropping, message tampering, and replay attacks.
+These threats become even more severe in a post-quantum context, where traditional cryptographic assumptions may no longer hold.
+
+To address these challenges, this work adopts a hybrid encryption approach that integrates a post-quantum key encapsulation
+mechanism with symmetric encryption to protect vehicular data transmissions.
